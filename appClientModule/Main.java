@@ -9,9 +9,9 @@ import java.util.concurrent.Executors;
 
 
 public class Main {
-	private final String BASE_URL_USA = "";
-	private final String BASE_URL_CA = "";
-	private final String BASE_URL_JP = "";
+	private final String BASE_URL_USA = "https://www.amazon.com/s/ref=nb_sb_noss/139-0871719-0648443?url=search-alias%3Daps&field-keywords=led";
+	private final String BASE_URL_CA =  "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Delectronics&field-keywords=led&rh=n%3A172282%2Ck%3Aled";
+	private final String BASE_URL_JP =  "https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A172282%2Ck%3Aled&page=2&keywords=led&ie=UTF8&qid=1494308986&spIA=B06VY6ZDF9,B00X6DWIFI,B01CQTSGUI&lo=electronics";
 	
 	public static void main(String[] args) {
 		
